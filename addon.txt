@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+    "name"              "Slasherss' RP Stuff"
+    "version"           "1"
+    "up_date"           "00/00/00"
+    "author_name"       "Slasherss"
+    "author_email"      ""
+    "author_url"        ""
+    "info"              "Some stuff for RP"
+    "override"          "0"
+}
